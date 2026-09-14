@@ -1,4 +1,5 @@
-## Hi there 👋
+# Welcome to my GitHub Repository 
+### 💬 My name's Ernesto and I learning JavaScript 💬
 
 <!--
 **ernesto-mazola-ferrer/ernesto-mazola-ferrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
