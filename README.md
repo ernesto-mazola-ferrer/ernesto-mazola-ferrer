@@ -1,17 +1,35 @@
-# Welcome to my GitHub Repository 
-### 💬 My name's Ernesto and I learning JavaScript 💬
-
-<!--
-**ernesto-mazola-ferrer/ernesto-mazola-ferrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- en un momento pensaba hacer todo el texto en inglés, pero me aburrí así lo estoy haciendo en castellano, aunque lo pudiera hacer en catalan pero x -->
+<!-- pudiera poner la imagen de mi gatico? -->
+<!-- esto soporta CSS?-->
+<html>
+<!--<style>
+body {background-color: #5d66e5;}
+body {font-family:monospace}
+h1 {color: #433686;}
+</style>-->
+<body>
+<h1>
+&starf;Bienvendios a mi repositorio de GitHub&starf;
+</h1>
+<p>
+¡Hola! Mi nombre es <strong>Ernesto</strong> y curso <em>1ro de Bachiller</em>,<br>
+estoy supermotivado por aprender a programar.<br>
+Ya de antemano sabía algunas cosas básicas,<br>
+pues estuve aprendiendo con <a href=https://neocities.org/tutorials>los tutoriales de Neocities</a>.
+</p>
+<hr>
+<h3> Cosas que me gustan:</h3>
+<ul>
+<li>Dibujar.</li>
+<li>Matemáticas.</li>
+<li>Añadirle cosas innecesarias al README.</li>  
+</ul>
+<hr>
+<br>
+<br>
+<br>
+<blockquote> 
+Repositorio de Ernesto Mazola Ferrer
+</blockquote>
+</body>
+</html>
